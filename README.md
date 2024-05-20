@@ -1,6 +1,6 @@
 <div class="container">
   <h1>Topic Modelling Repository</h1>
-  <p>Welcome to the Topic Modelling Repository! This repository provides resources for exploring and analyzing textual data using Latent Dirichlet Allocation (LDA) topic modelling techniques. Below are the files included:</p>
+  <p>Welcome! This repository provides resources for exploring and analyzing textual data using Latent Dirichlet Allocation (LDA) topic modelling techniques and Word Clouds visualisation based on another repository "web-scraping-exercise". Below are the files included:</p>
   
   <ul>
     <li><strong>EDA-preprocessing.ipynb:</strong> Exploratory Data Analysis and preprocessing steps.</li>
@@ -10,9 +10,7 @@
     <li><strong>cleaned_review.pkl:</strong> Cleaned dataset in Pickle format.</li>
   </ul>
   
-  <p>Throughout the repository, we employ techniques to visualize results, including Word Clouds.</p>
-  
-  <p>Feel free to explore, experiment, and delve deeper into the world of text analysis and topic modelling!</p>
+  <p>Feel free to experiment with different texts or adjusting the LDA model parameters!</p>
 </div>
 
 </body>
