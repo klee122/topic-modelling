@@ -1,6 +1,6 @@
 # University Review LDA Topic Modelling
 
-Welcome! This repository provides resources for exploring and analyzing textual data using Latent Dirichlet Allocation (LDA) topic modelling techniques and Word Clouds visualisation based on another repository "web-scraping-exercise". Below are the files included:
+This repository provides resources for exploring and analyzing textual data using Latent Dirichlet Allocation (LDA) topic modelling techniques and Word Clouds visualisation based on another repository "web-scraping-exercise". Below are the files included:
 
 - **`EDA-preprocessing.ipynb`:** Exploratory Data Analysis and preprocessing steps.
 - **`topic-modelling.ipynb`:** Notebook for LDA topic modelling.
