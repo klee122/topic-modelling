@@ -1,23 +1,3 @@
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-  }
-  h1 {
-    color: #333;
-  }
-  p {
-    color: #666;
-    line-height: 1.5;
-  }
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-</style>
-</head>
-<body>
-
 <div class="container">
   <h1>Topic Modelling Repository</h1>
   <p>Welcome to the Topic Modelling Repository! This repository provides resources for exploring and analyzing textual data using Latent Dirichlet Allocation (LDA) topic modelling techniques. Below are the files included:</p>
